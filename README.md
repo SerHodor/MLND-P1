@@ -7,6 +7,7 @@
 	$	conda install numpy matplotlib pandas jupyter notebook
 	$	conda install scikit-learn=0.17
 ```
+# How to Run
 ## Start Project
 ```
 	$	cd to folder
@@ -14,8 +15,19 @@
 	$	activate mlnd
 	$	jupyter notebook boston_housing.ipynb
 ```
+## Push any changes to github
+```
+	$	git push -u origin master 
+```
 ## Exit Project
 ```
 	logout form notebook
 	$	deactivate mlnd
+```
+## ToDo
+```
+	Coding task : completed
+	Answer Questions
+	Export Environment
+	Complete readme
 ```
