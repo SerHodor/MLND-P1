@@ -65,4 +65,4 @@ target/
 .ipynb_checkpoints
 
 #zips
-.zip
+*.zip
